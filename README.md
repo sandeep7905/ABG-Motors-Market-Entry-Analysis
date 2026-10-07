@@ -15,4 +15,4 @@ Python, Pandas, Scikit-learn, Matplotlib, Seaborn, Tableau
 - `ABG_Dashboard.png` – Tableau dashboard preview
 
 ## Dashboard
-[(paste your Tableau Public link here)](https://public.tableau.com/app/profile/sandeep.rajbhar7442/viz/ABG_Motors_Dashboard_17912840191870/Dashboard1?publish=yes)
+(https://public.tableau.com/app/profile/sandeep.rajbhar7442/viz/ABG_Motors_Dashboard_17912840191870/Dashboard1?publish=yes)
